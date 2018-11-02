@@ -1,0 +1,6 @@
+framework module MD_UITableView_FDTemplateLayoutCell {
+  umbrella header "MD-UITableView+FDTemplateLayoutCell-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_MADBase {
+  umbrella header "Pods-MADBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

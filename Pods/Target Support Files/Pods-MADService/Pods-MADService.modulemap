@@ -1,0 +1,6 @@
+framework module Pods_MADService {
+  umbrella header "Pods-MADService-umbrella.h"
+
+  export *
+  module * { export * }
+}

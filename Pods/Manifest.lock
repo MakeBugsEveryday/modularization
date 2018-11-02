@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Kingfisher (4.10.0)
+  - MD-UITableView+FDTemplateLayoutCell (1.9)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - Moya (11.0.2):
+    - Moya/Core (= 11.0.2)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (11.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - ObjectMapper (3.3.0)
+  - Result (3.2.4)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - SnapKit (4.0.1)
+  - SVProgressHUD (2.0.4)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Kingfisher (~> 4.0)
+  - MD-UITableView+FDTemplateLayoutCell
+  - MJExtension
+  - MJRefresh
+  - Moya (~> 11.0.2)
+  - Moya/RxSwift (~> 11.0)
+  - ObjectMapper (~> 3.3.0)
+  - RxCocoa
+  - RxSwift
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD (= 2.0.4)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  MD-UITableView+FDTemplateLayoutCell: f575a0785f47b047195cf40198ace881f2fb50b9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 1331ae8e1f0ecccfe8dd7408383643ad964cd71e
+
+COCOAPODS: 1.3.1
